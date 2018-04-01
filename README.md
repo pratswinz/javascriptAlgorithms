@@ -24,12 +24,5 @@ Post + Man = Postman
 etc...
 ```
 
-Submit the following:
-
-1) Give us instructions on how to install and run your code
-2) Treat this as if it was production code: we want to see code that's tested, is efficient and clean
-
-
-When you finished the test, please zip the contents and send us the solution
 
 
